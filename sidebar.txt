@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bbe:home|Door43 (bbe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bbe|d43-bbe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bbe/archive/master.zip|d43-bbe.zip]]
+
+**Recent Changes**
+{{changes>ns = bbe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bbe|Ethnologue data]]
+
